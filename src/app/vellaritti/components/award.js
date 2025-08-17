@@ -9,7 +9,7 @@ const Award = () => {
             <div className="xl:h-4/5 lg:h-4/5 h-2/4 w-full ">
                 <Image className="h-full object-cover w-full" src={banner} alt="..." fetchPriority='low' />
             </div>
-        </section >
+        </section>
     )
 }
 

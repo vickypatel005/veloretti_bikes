@@ -47,12 +47,13 @@ export default function Footer() {
                         <li><Link href="#" className='hover:text-neutral-50' >Contact</Link></li>
                         <li><Link href="#" className='hover:text-neutral-50' >FAQ</Link></li>
                         <li><Link href="#" className='hover:text-neutral-50' >Delivery</Link></li>
-                        <li><Link href="#" className='hover:text-neutral-50' >Assembly & manuals</Link></li>
+                        <li><Link href="#" className='hover:text-neutral-50' >Assembly  &amp; manuals</Link></li>
                         <li><Link href="#" className='hover:text-neutral-50' >Payment options</Link></li>
                         <li><Link href="#" className='hover:text-neutral-50' >Privacy policy</Link></li>
-                        <li><Link href="#" className='hover:text-neutral-50' >Terms & conditions</Link></li>
+                        <li><Link href="#" className='hover:text-neutral-50' >Terms  &amp; conditions</Link></li>
                     </ul>
                 </div>
+
 
                 <div className="col-span-2 md:col-span-2 sm:col-span-3">
                     <h4 className="font-semibold text-xl mb-4">Join the ride.</h4>

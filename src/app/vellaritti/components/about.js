@@ -12,7 +12,7 @@ const About = () => {
                 <div className='flex justify-between gap-x-10 sm:gap-x-15  md:gap-x-55 lg:gap-x-65 xl:gap-x-120'>
                     <p className='text-sm text-neutral-600 md:text-lg lg:text-xl xl:text-2xl'>
                         Clean and timeless designs that make every ride a thrill.
-                        Wherever you're heading, our bikes are made to make your daily
+                        Wherever you&apos; heading, our bikes are made to make your daily
                         commute a joy.
                     </p>
                     <div className='w-15 h-7.5 md:w-20 md:h-full sm:w-8 '>

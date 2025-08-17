@@ -14,15 +14,15 @@ const List = () => {
                     <h3 className='text-2xl pb-4 text-black lg:text-3xl'>Leasing</h3>
                     <p className='text-md text-neutral-600 pb-3'>
                         fast, we got both. Our
-                        men's range of bicycles
+                        men&apos;s range of bicycles
                         combine modern clean
                         design with great quality,
-                        so they're perfect for your
+                        so they&apos;re perfect for your
                         daily city commute. Our
                         men citybikes are the
                         Caféracer, Caféchaser
                         and the Berlin, but feel
-                        free to opt for a women's
+                        free to opt for a women&apos;s
                         bike for that easy hop-on-
                         hop-off Amsterdam style.
                     </p>
